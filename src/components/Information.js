@@ -1,5 +1,3 @@
-import "../sass/components/Information.scss";
-
 const Information = () => {
 	return (
 		<section className="information">
